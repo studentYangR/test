@@ -14,3 +14,7 @@ test for repository
 thank `you` ,you are so `beatiflui`.
 ## 使用文本超链接
 [我的github](https://github.com/studentYangR"悬停显示")
+## 使用原点符
+*添加一级原点  
+ *添加二级原点  
+   *添加三级原点
