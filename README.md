@@ -27,6 +27,12 @@ thank `you` ,you are so `beatiflui`.
 ## 插入图片
 说明：![]方括号内文字不会有任何影响，可以理解为开发者自己的标注。()内是图片的URL." "里面是悬浮说明。  
 ![baidu](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1546944978316&di=c129db68eecffb47bdbfca14aba79da3&imgtype=0&src=http%3A%2F%2Fh.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F2f738bd4b31c87018e9450642a7f9e2f0708ff16.jpg "百度图片")
-### 给图片添加超链接
-[![baidu]](http://baidu.com)  
-[baidu]:https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1546944978316&di=c129db68eecffb47bdbfca14aba79da3&imgtype=0&src=http%3A%2F%2Fh.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F2f738bd4b31c87018e9450642a7f9e2f0708ff16.jpg "百度图片"
+## 添加代码片段
+```Java
+public static void main(String[] args){} //java
+```
+``` C
+void mian(){
+}
+```
+
